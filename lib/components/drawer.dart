@@ -120,7 +120,7 @@ class _MyDrawerState extends State<MyDrawer> {
                           ),
                     const SizedBox(height: 20),
                     const MyListTile(
-                      title: ' نبذة التاريخية ',
+                      title: ' نبذه التاريخية ',
                       icon: EneftyIcons.information_outline,
                       screenName: roawaacl(),
                     ),
